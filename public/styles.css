@@ -1,9 +1,11 @@
+
 body {
-  background-image:<img class="homepageplant" src="https://www.dutchnews.nl/wpcms/wp-content/uploads/2016/10/corn-field-young-plants-farm.jpg"> ;
+  text-align: center;
+  background-image: url("https://www.dutchnews.nl/wpcms/wp-content/uploads/2016/10/corn-field-young-plants-farm.jpg");
   background-size: cover;
-  color: #AFE5FF;
 }
-button{
+
+button {
   width: 200px;
   height: 200px;
   padding: 10px;

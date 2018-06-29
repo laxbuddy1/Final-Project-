@@ -7,15 +7,15 @@ get '/' do
   erb :index
 end
 
- get '/views/DeciduousForest' do
+ get '/views/deciduousforest' do
   erb :Deciduous_Forest
  end
 
- get '/views/Tundra' do
+ get '/views/tundra' do
    erb :Tundra
  end
 
- get '/views/Desert' do
+ get '/views/desert' do
    erb :Desert
  end
 
@@ -23,11 +23,11 @@ end
    erb :grasslands
  end
 
- get '/views/Rainforest' do
+ get '/views/rainforest' do
    erb :Rainforest
  end
 
- get '/views/Taiga' do
+ get '/views/taiga' do
    erb :Taiga
  end
 end
