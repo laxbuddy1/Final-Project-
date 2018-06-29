@@ -8,26 +8,26 @@ get '/' do
 end
 
  get '/views/deciduousforest' do
-  erb :Deciduous_Forest
+  erb :deciduous_forest
  end
 
  get '/views/tundra' do
-   erb :Tundra
+   erb :tundra
  end
 
  get '/views/desert' do
-   erb :Desert
+   erb :desert
  end
 
  get '/views/grasslands' do
-   erb :Grassland
+   erb :grassland
  end
 
  get '/views/rainforest' do
-   erb :Rainforest
+   erb :rainforest
  end
 
  get '/views/taiga' do
-   erb :Taiga
+   erb :taiga
  end
 end
